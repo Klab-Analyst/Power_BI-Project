@@ -14,6 +14,9 @@
 ### Project Overview
 
 The primary aim of this analysis is to analyze the call center data to identify key trends and insight that can help improve customer service efficiency and Agent Performance. The derived will assist Stakeholders in making data-driven decision to enhance operational efficiency.
+![Dashboard](https://github.com/user-attachments/assets/695f2f80-9a2b-41c2-9b3c-d00da771ad45)
+
+
 
 
 ### Data Sources
